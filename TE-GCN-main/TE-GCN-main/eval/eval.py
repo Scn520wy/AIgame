@@ -2,7 +2,7 @@ import argparse
 import numpy as np
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--pred_path', type=str, default='pred.npy')
+parser.add_argument('--pred_path', type=str, default='pre.npy')
 
 if __name__ == "__main__":
 
